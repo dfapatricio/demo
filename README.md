@@ -1,1 +1,1 @@
-"Example for the demo" 
+"Github training knowledge share " 
