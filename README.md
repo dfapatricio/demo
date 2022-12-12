@@ -1,1 +1,1 @@
-"Example for the demo - again" 
+"Example for the demo" 
